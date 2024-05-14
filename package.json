@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-gateway-laravel",
+  "version": "1.0.0",
+  "description": "whatsapp-gateway-laravel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rizkyamto",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "qrcode": "^1.5.3",
+    "request": "^2.88.2",
+    "rimraf": "^5.0.1",
+    "socket.io": "^4.7.2",
+    "valid-url": "^1.0.9",
+    "whatsapp-web.js": "https://github.com/Julzk/whatsapp-web.js/tarball/jkr_hotfix_8"
+  }
+}
