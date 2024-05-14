@@ -1,3 +1,4 @@
+```
 const configs = {
     port: 3000, // port server default 3000
     isReceiveMessage: true, // direkomendasikan true
@@ -13,3 +14,4 @@ const configs = {
 }
 
 module.exports = configs;
+```
